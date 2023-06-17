@@ -4,5 +4,3 @@ def pal_detect(msg):
         return True
     else:
         return False
-
-print(pal_detect("гей"))
